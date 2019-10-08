@@ -1,6 +1,6 @@
 """
     autor: @erickgjs99
-    file: practica_3.py
+    file: practica_4.py
 Función map
 Una función anónima
 que permita presentar en otra lista, cada elemento elevado a la tercera potencia."""
